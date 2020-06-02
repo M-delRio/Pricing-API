@@ -1,0 +1,6 @@
+discount_a:
+  id: 1
+  rate_id: 2
+  is_flat: false
+  discount_type: percentage
+  type_value: 10
